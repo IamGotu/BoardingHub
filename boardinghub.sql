@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 13, 2024 at 05:06 PM
+-- Generation Time: Jun 17, 2024 at 06:52 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -81,7 +81,7 @@ CREATE TABLE `loginform` (
 --
 
 INSERT INTO `loginform` (`id`, `fname`, `lname`, `email`, `username`, `password`, `created_at`, `admin`) VALUES
-(1, 'Admin', '1', 'admin@gmail.com', 'admin', '$2y$10$hhfdE3DZIMYCs.TUwr2lY.02ybw9G4.ph7QmMfs3St7196jkgcZ..', '2021-05-29 21:24:35', 'YES');
+(1, 'Admin', '1', 'admin@gmail.com', 'admin', '$2y$10$VfC8ebzz7AS.Zrz/lcmBaO5Zynh6CQdeo4S7r77vhMyhKr.o0Y9ra', '2021-05-29 21:24:35', 'YES');
 
 -- --------------------------------------------------------
 
