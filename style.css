@@ -1,0 +1,103 @@
+.container{
+    width: 700px;
+    overflow: hidden;
+}
+
+.container form input{
+    width: 100%;
+    border: solid 1px;
+}
+.container hr{
+    color: black;
+    height: 1.5px;
+}
+
+body {
+    background: #f8f9fa;
+}
+
+.navbar-brand {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2rem;
+}
+
+.reset-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    background: #ffffff;
+}
+.reset-container h2 {
+    margin-bottom: 20px;
+    font-family: 'Lucida Handwriting', cursive;
+}
+.btn-custom {
+    background: #343a40;
+    color: #ffffff;
+    border-radius: 25px;
+}
+.btn-custom:hover {
+    background: #495057;
+}
+
+.register-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    background: #ffffff;
+}
+.register-container h2 {
+    margin-bottom: 20px;
+    font-family: 'Lucida Handwriting', cursive;
+}
+.btn-custom {
+    background: #343a40;
+    color: #ffffff;
+    border-radius: 25px;
+}
+.btn-custom:hover {
+    background: #495057;
+}
+.btn-forgot {
+    background: #dc3545;
+    color: #ffffff;
+    border-radius: 25px;
+}
+.btn-forgot:hover {
+    background: #c82333;
+}
+
+.login-container {
+    max-width: 450px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    background: #ffffff;
+}
+.login-container h2 {
+    margin-bottom: 20px;
+    font-family: 'Lucida Handwriting', cursive;
+}
+.btn-custom {
+    background: #343a40;
+    color: #ffffff;
+    border-radius: 25px;
+}
+.btn-custom:hover {
+    background: #495057;
+}
+.btn-forgot {
+    background: #dc3545;
+    color: #ffffff;
+    border-radius: 25px;
+}
+.btn-forgot:hover {
+    background: #c82333;
+}
+
+
