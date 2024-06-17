@@ -22,4 +22,4 @@ FIRST Download
 
 Admin
 user: admin
-pass: admin@123
+pass: admin
